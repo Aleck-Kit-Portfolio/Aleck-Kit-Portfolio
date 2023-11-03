@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleck</h1>
 
 <h3 align="center">A passionate Security Analyst with the skills to match!</h3>
-![security-analyst-aleck](https://github.com/Aleck-Kit-Portfolio/Aleck-Kit-Portfolio/assets/16060702/5cb8dafb-6853-432b-920c-46efbae1c4c9)
+![security-analyst-aleck](security-analyst-aleck.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleck-kit-portfolio&label=Profile%20views&color=0e75b6&style=flat" alt="aleck-kit-portfolio" /> </p>
