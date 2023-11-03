@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleck</h1>
+![readme intro image](security-analyst-aleck.png)
 <h3 align="center">A passionate Security Analyst with the skills to match!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleck-kit-portfolio&label=Profile%20views&color=0e75b6&style=flat" alt="aleck-kit-portfolio" /> </p>
