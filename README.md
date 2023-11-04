@@ -11,7 +11,7 @@
 
 - 📫 Kindly reach me at **aleck.kit@outlook.com**
 
-<h3 align="left">How do I keep up to date with cybersecurity news, you ask?</h3>
+<h3 align="left">How do I keep informed and up to date, you ask?</h3>
 <p>While staying up-to-date on cybersecurity news from a wide range of online sources and informative podcasts, I wanted to create my own platform that delivered the same news in a humorous, informal style that is instantly memorable and concise. I am thus in the process of developing a faceless, AI-driven YouTube channel that delivers daily and weekly cybersecurity headlines and need-to-know news in a humorous, informal style that is instantly memorable and concise. My hope is that the channel will become a go-to source for many like-minded security enthusiasts and professionals in the future. Welcome to The Smart-Aleck Cyber Show. It's nice to have you here... </p>
 
 
