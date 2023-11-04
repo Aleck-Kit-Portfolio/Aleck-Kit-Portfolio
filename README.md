@@ -17,7 +17,7 @@
 
 <p align="center"> <img src= "https://github.com/Aleck-Kit-Portfolio/Aleck-Kit-Portfolio/assets/16060702/c1f54cc1-02b0-4d60-a77f-6b5fafc76392" height="400" width="400"/> </p>
 <p align="center">
-<a href="https://www.youtube.com/c/thesmart-aleckcybershow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thesmart-aleckcybershow" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/thesmart-aleckcybershow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thesmart-aleckcybershow" height="50" width="60" /></a>
 </p>
 
 <h1 align="center"></h1>
