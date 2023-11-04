@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Aleck</h1>
 
 <p align="center"> <img src="https://github.com/Aleck-Kit-Portfolio/Aleck-Kit-Portfolio/assets/16060702/5cb8dafb-6853-432b-920c-46efbae1c4c9"/> </p>
-<h3 align="center">A passionate Security Analyst with the skills to match!</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleck-kit-portfolio&label=Profile%20views&color=0e75b6&style=flat" alt="aleck-kit-portfolio" /> </p>
 
+<h3 align="center">A passionate Security Analyst with the skills to match!</h3>
+<p>I'm a detail-oriented cybersecurity professional dedicated to protecting organisations and the people they serve. I'm knowledgeable about NIST frameworks and able to implement security controls to ensure compliance with international regulations related to data protection. I have experience with identifying threats, risks and vulnerabilities; security hardening, threat modeling; and incident escalation and response. I'm proficient in the use of Linux command line, SQL and Python. I have strong communication and problem-solving skills, honed through 15+ years of experience in advertising, marketing and communication strategy, and which has also lent to my proven ability to research, analyze, and communicate complex information to a variety of audiences. I recently completed the Google Cybersecurity Certificate; a rigorous, skills-based program that covers key cybersecurity knowledge and skills.</p>
+
 - 🌱 I’m currently learning **hands-on, practical skills in Security Fundamentals, Phishing Analysis, Threat Intelligence, Digital Forensics, SIEM and Incident Response through the Blue Team Level 1 Junior Security Operations Certificate program.**
 
-- 📫 How to reach me **aleck.kit@outlook.com**
+- 📫 Kindly reach me at **aleck.kit@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How do I keep up to date with cybersecurity news, you ask?</h3>
+<p>While staying up-to-date on cybersecurity news from a wide range of online sources and informative podcasts, I wanted to create my own platform that delivered the same news in a humorous, informal style that is instantly memorable and concise. I am thus in the process of developing a faceless, AI-driven YouTube channel that delivers daily and weekly cybersecurity headlines and need-to-know news in a humorous, informal style that is instantly memorable and concise. My hope is that the channel will become a go-to source for many like-minded security enthusiasts and professionals in the future. Welcome to The Smart-Aleck Cyber Show. It's nice to have you here... </p>
 <p align="left">
 <a href="https://www.youtube.com/c/thesmart-aleckcybershow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thesmart-aleckcybershow" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
@@ -21,10 +25,4 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleck-kit-portfolio" alt="aleck-kit-portfolio" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleck-kit-portfolio&show_icons=true&locale=en" alt="aleck-kit-portfolio" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleck-kit-portfolio&" alt="aleck-kit-portfolio" /></p>
