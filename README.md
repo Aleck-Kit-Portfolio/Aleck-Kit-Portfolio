@@ -12,7 +12,7 @@
 - 📫 Kindly reach me at **aleck.kit@outlook.com**
 <h1 align="center"></h1>
 <h3 align="left">How do I keep informed and up to date, you ask?</h3>
-<p>While staying up-to-date on cybersecurity news from a wide range of online sources and informative podcasts, I wanted to create my own platform that delivered the same news in a humorous, informal style that is instantly memorable and concise. I am thus in the process of developing a faceless, AI-driven YouTube channel that delivers daily and weekly cybersecurity headlines and need-to-know news in a humorous, informal style that is instantly memorable and concise. My hope is that the channel will become a go-to source for many like-minded security enthusiasts and professionals in the future. Welcome to The Smart-Aleck Cyber Show. It's nice to have you here... </p>
+<p>While staying up-to-date on cybersecurity news from a wide range of online sources and informative podcasts, I wanted to create my own platform that delivered the same news in a lighthearted, conversational tone that's easy to digest and remember. I am thus in the process of developing a faceless, AI-driven YouTube channel which presents daily and weekly curated cybersecurity headlines and need-to-know news. My hope is that more than being a personal source of news for my own use, the channel will become a go-to source for many like-minded security enthusiasts and professionals in the future. Welcome to The Smart-Aleck Cyber Show. It's nice to have you here... </p>
 
 
 <p align="center"> <img src= "https://github.com/Aleck-Kit-Portfolio/Aleck-Kit-Portfolio/assets/16060702/c1f54cc1-02b0-4d60-a77f-6b5fafc76392" height="400" width="400"/> </p>
