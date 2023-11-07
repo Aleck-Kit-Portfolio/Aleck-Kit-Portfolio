@@ -17,7 +17,7 @@
 
 <h1 align="center"></h1>
 <h3 align="left">Resume</h3>
- <p>[Aleck's Resume](./Aleck Kitenge Resume 2023.pdf)</p>
+ [Aleck's Resume](./Aleck Kitenge Resume 2023.pdf)
 
 <h1 align="center"></h1>
 
