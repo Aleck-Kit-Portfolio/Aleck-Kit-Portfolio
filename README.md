@@ -17,7 +17,7 @@
 
 <h1 align="center"></h1>
 <h3 align="left">Resume</h3>
- [Aleck's Resume](./aleckresume2023.pdf)
+ [Aleck's Resume]((https://drive.google.com/file/d/15RkkBGhJlNKQwefq-N_QCgrXbV8hJY-e/view?usp=sharing))
 
 <h1 align="center"></h1>
 
