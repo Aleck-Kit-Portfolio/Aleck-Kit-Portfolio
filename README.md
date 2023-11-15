@@ -36,7 +36,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
 
 
 <div align="center">
-  <img src="https://github.com/Aleck-Kit-Portfolio/Aleck-Kit-Portfolio/assets/16060702/c1f54cc1-02b0-4d60-a77f-6b5fafc76392" height="400" width="400" style="border: 5px solid #ccc;"/>
+  <img src="https://github.com/Aleck-Kit-Portfolio/Aleck-Kit-Portfolio/assets/16060702/c1f54cc1-02b0-4d60-a77f-6b5fafc76392" height="400" width="400" style="border: 5px solid #fff;"/>
 </div>
 
 <p align="center">
