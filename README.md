@@ -21,6 +21,8 @@
 <h3 align="left">Resume</h3>
 <p>My resume is available to download here: </p>
 <a href="https://drive.google.com/file/d/15RkkBGhJlNKQwefq-N_QCgrXbV8hJY-e/view?usp=sharing"><strong>Aleck's Resume »</strong></a>
+[![PDF icon](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Adobe_Acrobat_Icon_256px.svg/120px-Adobe_Acrobat_Icon_256px.svg.png)](https://drive.google.com/file/d/15RkkBGhJlNKQwefq-N_QCgrXbV8hJY-e/view?usp=sharing)
+
 
 
 <h1 align="center"></h1>
