@@ -57,7 +57,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   <!-- UPDATE -->
     <i>Project one liner slogan goes here</i>
     <br />
-    <a href="https://github.com/proffapt/PROJECT_NAME"><strong>Explore the docs »</strong></a>
+    <a [proj1](Portfolio Project 1 Analysing Network Attacks.pdf)><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
