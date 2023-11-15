@@ -35,7 +35,10 @@ By actively engaging with these diverse sources of information, I maintain a com
 To this end, I'm working on developing my own platform that delivers up-to-date cybersecurity news in a lighthearted, conversational tone that's easy to digest and remember. I am thus in the process of developing a faceless, AI-driven YouTube channel which presents daily and weekly curated cybersecurity headlines and need-to-know news. My hope is that more than being a personal source of news for my own use, the channel will become a go-to source for many like-minded security enthusiasts and professionals in the future. Welcome to The Smart-Aleck Cyber Show. It's nice to have you here... </p>
 
 
-<p align="center"> <img src= "https://github.com/Aleck-Kit-Portfolio/Aleck-Kit-Portfolio/assets/16060702/c1f54cc1-02b0-4d60-a77f-6b5fafc76392" height="400" width="400"/> </p>
+<div align="center">
+  <img src="https://github.com/Aleck-Kit-Portfolio/Aleck-Kit-Portfolio/assets/16060702/c1f54cc1-02b0-4d60-a77f-6b5fafc76392" height="400" width="400" style="border: 5px solid #ccc;"/>
+</div>
+
 <p align="center">
 <a href="https://www.youtube.com/c/thesmart-aleckcybershow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thesmart-aleckcybershow" height="50" width="60" /></a>
 </p>
