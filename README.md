@@ -16,6 +16,7 @@
 <p>Kindly reach me at [Email Aleck Kit](mailto:aleck.kit@outlook.com)</p>
 <p>Kindly reach me at [Email Aleck Kit](mailto:aleck.kit@outlook.com)</p>
 [Contact me](https://mail.google.com/?view=cm&to=aleck.kit@outlook.com)
+<a href="mailto:aleck.kit@outlook.com">Contact me</a>
 
   
 
