@@ -64,7 +64,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   <a href="Portfolio Project 2 Analysing Network Layer Communication.pdf">
     <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
   </a>
-  <h3 align="center">PROJECT_NAME</h3>
+  <h3 align="center">Analysing Network Layer Communication</h3>
   <p align="center">
     <i>Project one liner slogan goes here</i>
     <br />
@@ -78,7 +78,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   <a href="Portfolio Project 3 Applying OS Hardening Techniques.pdf">
     <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
   </a>
-  <h3 align="center">PROJECT_NAME</h3>
+  <h3 align="center">Applying OS Hardening Techniques</h3>
   <p align="center">
     <i>Project one liner slogan goes here</i>
     <br />
@@ -92,7 +92,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   <a href="Portfolio Project 4 Responding to a Security Incident.pdf">
     <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
   </a>
-  <h3 align="center">PROJECT_NAME</h3>
+  <h3 align="center">Responding to a Security Incident</h3>
   <p align="center">
     <i>Project one liner slogan goes here</i>
     <br />
