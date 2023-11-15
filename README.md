@@ -41,7 +41,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
 </p>
 
 <h1 align="center"></h1>
-<h3 align="left">Projects</h3>
+<h3 align="left">Portfolio Projects</h3>
 
 <!-- PROJECT LOGO -->
 <br />
