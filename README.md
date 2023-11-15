@@ -47,19 +47,17 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
 <br />
 <!-- UPDATE -->
 <div align="center">
-  <a [proj1](Portfolio Project 1 Analysing Network Attacks.pdf)>
+  <a href="Portfolio Project 1 Analysing Network Attacks.pdf">
     <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
   </a>
-
   <h3 align="center">PROJECT_NAME</h3>
-
   <p align="center">
-  <!-- UPDATE -->
     <i>Project one liner slogan goes here</i>
     <br />
-    <a [proj1](Portfolio Project 1 Analysing Network Attacks.pdf)><strong>Explore the docs »</strong></a>
+    <a href="Portfolio Project 1 Analysing Network Attacks.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
 </div>
+
 <h1 align="center"></h1>
