@@ -47,7 +47,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
 <br />
 <!-- UPDATE -->
 <div align="center">
-  <a href="https://github.com/Aleck-Kit-Portfolio/Portfolio Project 1 Analysing Netwrk Attacks.pdf">
+  <a href="https://github.com/Aleck-Kit-Portfolio/Portfolio Project 1 Analysing Network Attacks.pdf">
     <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
   </a>
 
