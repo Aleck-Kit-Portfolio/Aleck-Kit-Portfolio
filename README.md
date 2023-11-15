@@ -15,6 +15,7 @@
 <h1 align="center"></h1>
 <p>Kindly reach me at [Email Aleck Kit](mailto:aleck.kit@outlook.com)</p>
 <p>Kindly reach me at [Email Aleck Kit](mailto:aleck.kit@outlook.com)</p>
+[Contact me](https://mail.google.com/?view=cm&to=aleck.kit@outlook.com)
 
   
 
