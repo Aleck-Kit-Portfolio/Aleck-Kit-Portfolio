@@ -42,4 +42,27 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
 
 <h1 align="center"></h1>
 <h3 align="left">Projects</h3>
+
+<!-- PROJECT LOGO -->
+<br />
+<!-- UPDATE -->
+<div align="center">
+  <a href="https://github.com/proffapt/PROJECT_NAME">
+    <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
+  </a>
+
+  <h3 align="center">PROJECT_NAME</h3>
+
+  <p align="center">
+  <!-- UPDATE -->
+    <i>Project one liner slogan goes here</i>
+    <br />
+    <a href="https://github.com/proffapt/PROJECT_NAME"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/proffapt/PROJECT_NAME/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/proffapt/PROJECT_NAME/issues">Request Feature</a>
+  </p>
+</div>
 <h1 align="center"></h1>
