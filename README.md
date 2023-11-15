@@ -14,7 +14,7 @@
 
 <h1 align="center"></h1>
 
-<p>Kindly reach me at:<a href="mailto:aleck.kit@outlook.com">aleck.kit@outlook.com</a></p> 
+<p>Kindly reach me at: <a href="mailto:aleck.kit@outlook.com">aleck.kit@outlook.com</a></p> 
 
   
 
