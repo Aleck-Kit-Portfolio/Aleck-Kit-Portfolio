@@ -14,6 +14,7 @@
 
 <h1 align="center"></h1>
 <p>Kindly reach me at [Email Aleck Kit](mailto:aleck.kit@outlook.com)
+  [How-To Geek](http://www.howtogeek.com)
 </p>
 
 <h1 align="center"></h1>
