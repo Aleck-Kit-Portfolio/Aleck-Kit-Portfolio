@@ -46,7 +46,8 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
 </div>
 
 <p align="center">
-<a href="https://www.youtube.com/c/thesmart-aleckcybershow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thesmart-aleckcybershow" height="50" width="60" /></a>
+<a href="https://www.youtube.com/@TheSmart-AleckCyberShow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="The Smart-Aleck Cyber Show" height="50" width="60" /></a>
+
 </p>
 
 <h1 align="center"></h1>
