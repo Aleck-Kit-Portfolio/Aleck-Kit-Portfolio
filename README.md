@@ -61,7 +61,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   </a>
   <h3 align="center">Analysing Network Attacks</h3>
   <p align="center">
-    <i>Project one liner slogan goes here</i>
+    <i>Uncovering and analysing network attack patterns to mitigate cybersecurity threats.</i>
     <br />
     <a href="Portfolio Project 1 Analysing Network Attacks.pdf"><strong>Explore the docs »</strong></a>
     <br />
@@ -75,7 +75,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   </a>
   <h3 align="center">Analysing Network Layer Communication</h3>
   <p align="center">
-    <i>Project one liner slogan goes here</i>
+    <i>Delving into network traffic to identify and classify potential security vulnerabilities.</i>
     <br />
     <a href="Portfolio Project 2 Analysing Network Layer Communication.pdf"><strong>Explore the docs »</strong></a>
     <br />
@@ -89,7 +89,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   </a>
   <h3 align="center">Applying OS Hardening Techniques</h3>
   <p align="center">
-    <i>Project one liner slogan goes here</i>
+    <i>Employing robust operating system hardening strategies to enhance system security and resilience.e</i>
     <br />
     <a href="Portfolio Project 3 Applying OS Hardening Techniques.pdf"><strong>Explore the docs »</strong></a>
     <br />
@@ -103,7 +103,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   </a>
   <h3 align="center">Responding to a Security Incident</h3>
   <p align="center">
-    <i>Project one liner slogan goes here</i>
+    <i>Effectively navigating the complexities of responding to and remediating security incidents.</i>
     <br />
     <a href="Portfolio Porject 4 Responding to a Security Incident.pdf"><strong>Explore the docs »</strong></a>
     <br />
