@@ -89,7 +89,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   </a>
   <h3 align="center">Applying OS Hardening Techniques</h3>
   <p align="center">
-    <i>Employing robust operating system hardening strategies to enhance system security and resilience.e</i>
+    <i>Employing robust operating system hardening strategies to enhance system security and resilience</i>
     <br />
     <a href="Portfolio Project 3 Applying OS Hardening Techniques.pdf"><strong>Explore the docs »</strong></a>
     <br />
