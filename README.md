@@ -63,7 +63,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   <p align="center">
     <i>Uncovering and analysing network attack patterns to mitigate cybersecurity threats.</i>
     <br />
-    <a href="Portfolio Project 1 Analysing Network Attacks.pdf"><strong>Explore the docs »</strong></a>
+    <a href="Portfolio Project 1 Analysing Network Attacks.pdf"><strong>Explore the doc »</strong></a>
     <br />
     <br />
   </p>
@@ -77,7 +77,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   <p align="center">
     <i>Delving into network traffic to identify and classify potential security vulnerabilities.</i>
     <br />
-    <a href="Portfolio Project 2 Analysing Network Layer Communication.pdf"><strong>Explore the docs »</strong></a>
+    <a href="Portfolio Project 2 Analysing Network Layer Communication.pdf"><strong>Explore the doc »</strong></a>
     <br />
     <br />
   </p>
@@ -91,7 +91,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   <p align="center">
     <i>Employing robust operating system hardening strategies to enhance system security and resilience</i>
     <br />
-    <a href="Portfolio Project 3 Applying OS Hardening Techniques.pdf"><strong>Explore the docs »</strong></a>
+    <a href="Portfolio Project 3 Applying OS Hardening Techniques.pdf"><strong>Explore the doc »</strong></a>
     <br />
     <br />
   </p>
@@ -105,7 +105,7 @@ To this end, I'm working on developing my own platform that delivers up-to-date 
   <p align="center">
     <i>Effectively navigating the complexities of responding to and remediating security incidents.</i>
     <br />
-    <a href="Portfolio Porject 4 Responding to a Security Incident.pdf"><strong>Explore the docs »</strong></a>
+    <a href="Portfolio Porject 4 Responding to a Security Incident.pdf"><strong>Explore the doc »</strong></a>
     <br />
     <br />
   </p>
