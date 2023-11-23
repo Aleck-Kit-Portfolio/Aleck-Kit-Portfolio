@@ -16,7 +16,7 @@
 <h3 align="left">Contact Me</h3>
 
 <p>Kindly reach me at: <a href="mailto:aleck.kit@outlook.com">aleck.kit@outlook.com</a></p> 
-<p>Or via <a href="www.linkedin.com/in/aleckkitenge">LinkedIn</a></p> 
+<p>Or via <a href="https://www.linkedin.com/in/aleckkitenge">LinkedIn</a></p> 
 
   
 
